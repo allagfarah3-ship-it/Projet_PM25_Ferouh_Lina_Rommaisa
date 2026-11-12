@@ -1,0 +1,11 @@
+file,fold,n_train,n_test,n_shared_date_between_train_and_test,last_train_date,first_test_date,rows_gap_between_blocks,n_shared_id_between_train_and_test
+folds_temporal.json,fold_0,6732,6732,1.0,2020-10-03,2020-10-03,1.0,
+folds_temporal.json,fold_1,13464,6732,1.0,2022-02-17,2022-02-17,1.0,
+folds_temporal.json,fold_2,20196,6732,1.0,2023-08-31,2023-08-31,1.0,
+folds_temporal.json,fold_3,26928,6732,1.0,2024-07-18,2024-07-18,1.0,
+folds_temporal.json,fold_4,33660,6732,1.0,2025-05-13,2025-05-13,1.0,
+folds_spatial.json,fold_0,32329,8064,,,,,0.0
+folds_spatial.json,fold_1,32308,8085,,,,,0.0
+folds_spatial.json,fold_2,32293,8100,,,,,0.0
+folds_spatial.json,fold_3,32352,8041,,,,,0.0
+folds_spatial.json,fold_4,32290,8103,,,,,0.0
