@@ -1,0 +1,18 @@
+{
+  "n_rows": 40393,
+  "n_stations": 80,
+  "date_min": "2016-11-25",
+  "date_max": "2026-04-06",
+  "n_calendar_days": 3420,
+  "n_distinct_dates": 2298,
+  "all_timestamps_midnight": true,
+  "duplicates_station_date": 0,
+  "frequency_detected": "quotidienne (intervalle modal = 1 jour)",
+  "pct_intervals_equal_1d": 66.7,
+  "pct_intervals_le_3d": 89.9,
+  "pct_intervals_le_7d": 97.7,
+  "median_pct_missing_per_station": 50.11,
+  "max_consecutive_run_any_station": 48,
+  "median_longest_run": 20.0,
+  "n_stations_with_gap_gt30d": 49
+}
